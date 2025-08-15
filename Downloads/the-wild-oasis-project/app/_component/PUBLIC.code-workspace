@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "PUBLIC",
+		"path": "../../../the-wild-oasis-website/PUBLIC"
+	},
+	{
+		"name": "the-wild-oasis",
+		"path": "../.."
+	}
+],
+  "settings": {}
+}
